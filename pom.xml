@@ -10,7 +10,7 @@
 
     <properties>
         <spring.version>4.3.30.RELEASE</spring.version>
-        <tomcat.version>8.0.28</tomcat.version>
+        <tomcat.version>8.5.76</tomcat.version>
     </properties>
 
     <parent>
